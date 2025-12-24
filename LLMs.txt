@@ -1,0 +1,40 @@
+================ CHAT MODELS (Use with ChatHuggingFace) ================
+
+# Meta — LLaMA (Chat / Instruct)
+meta-llama/Llama-3.1-8B-Instruct
+meta-llama/Llama-3.1-70B-Instruct
+meta-llama/Llama-3-8B-Instruct
+meta-llama/Llama-3-70B-Instruct
+meta-llama/Llama-2-7b-chat-hf
+meta-llama/Llama-2-13b-chat-hf
+meta-llama/Llama-2-70b-chat-hf
+
+# Alibaba — Qwen (Chat / Instruct)
+Qwen/Qwen2.5-7B-Instruct
+Qwen/Qwen2.5-14B-Instruct
+Qwen/Qwen2.5-32B-Instruct
+Qwen/Qwen2.5-Coder-7B-Instruct
+Qwen/Qwen2.5-Coder-32B-Instruct
+Qwen/Qwen1.5-7B-Chat
+Qwen/Qwen1.5-14B-Chat
+
+# Mistral / Mixtral (Instruct)
+mistralai/Mistral-7B-Instruct-v0.3
+mistralai/Mixtral-8x7B-Instruct-v0.1
+mistralai/Mixtral-8x22B-Instruct-v0.1
+
+# JAIS (Chat)
+inceptionai/jais-30b-chat
+inceptionai/jais-13b-chat
+
+# h2oGPT (Chat / Instruction tuned)
+h2oai/h2ogpt-gm-oasst1-en-2048-falcon-7b-v2
+h2oai/h2ogpt-gm-oasst1-en-2048-falcon-40b-v1
+
+# BONUS (Instruction-tuned / Chat)
+google/gemma-2-2b-it
+google/gemma-2-7b-it
+microsoft/phi-3-mini-4k-instruct
+microsoft/phi-3-medium-4k-instruct
+TinyLlama/TinyLlama-1.1B-Chat-v1.0
+

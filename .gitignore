@@ -1,0 +1,9 @@
+# Virtual environments & Secrets
+venv
+.env
+
+# Vectore store / DB
+3_vector_stores/
+
+# Jupyter notebook
+.ipynb_checkpoints/
