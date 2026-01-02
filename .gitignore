@@ -7,3 +7,6 @@ venv
 
 # Jupyter notebook
 .ipynb_checkpoints/
+
+# Database
+*.db
